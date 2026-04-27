@@ -1,0 +1,20 @@
+{"query_id": "q1", "query": "What are European countries with large populations?", "relevant_tables": ["geo_0", "geo_5"], "benchmark": "wikitables"}
+{"query_id": "q2", "query": "Show me chemical elements and their properties", "relevant_tables": ["sci_1", "sci_6"], "benchmark": "wikitables"}
+{"query_id": "q3", "query": "Olympic medal counts by country", "relevant_tables": ["sports_2"], "benchmark": "wikitables"}
+{"query_id": "q4", "query": "Historical political leaders in the 20th century", "relevant_tables": ["hist_3"], "benchmark": "wikitables"}
+{"query_id": "q5", "query": "Tech companies revenue and workforce", "relevant_tables": ["biz_4"], "benchmark": "wikitables"}
+{"query_id": "q6", "query": "Countries in Western Europe", "relevant_tables": ["geo_0", "geo_5", "geo_10"], "benchmark": "wikitables"}
+{"query_id": "q7", "query": "Periodic table information", "relevant_tables": ["sci_1", "sci_6"], "benchmark": "wikitables"}
+{"query_id": "q8", "query": "Sports achievements and medals", "relevant_tables": ["sports_2", "sports_7"], "benchmark": "wikitables"}
+{"query_id": "q9", "query": "World War 2 leaders", "relevant_tables": ["hist_3"], "benchmark": "wikitables"}
+{"query_id": "q10", "query": "Silicon Valley companies", "relevant_tables": ["biz_4", "biz_9"], "benchmark": "wikitables"}
+{"query_id": "q11", "query": "Population demographics by nation", "relevant_tables": ["geo_0", "geo_5"], "benchmark": "wikitables"}
+{"query_id": "q12", "query": "Atomic numbers and symbols", "relevant_tables": ["sci_1"], "benchmark": "wikitables"}
+{"query_id": "q13", "query": "International sporting events results", "relevant_tables": ["sports_2"], "benchmark": "wikitables"}
+{"query_id": "q14", "query": "Political figures in European history", "relevant_tables": ["hist_3", "hist_8"], "benchmark": "wikitables"}
+{"query_id": "q15", "query": "Corporate financial data", "relevant_tables": ["biz_4", "biz_9"], "benchmark": "wikitables"}
+{"query_id": "q16", "query": "Geographic data about nations", "relevant_tables": ["geo_0", "geo_5", "geo_10"], "benchmark": "wikitables"}
+{"query_id": "q17", "query": "Chemistry and elements", "relevant_tables": ["sci_1", "sci_6"], "benchmark": "wikitables"}
+{"query_id": "q18", "query": "Olympic games statistics", "relevant_tables": ["sports_2", "sports_7"], "benchmark": "wikitables"}
+{"query_id": "q19", "query": "20th century political history", "relevant_tables": ["hist_3", "hist_8"], "benchmark": "wikitables"}
+{"query_id": "q20", "query": "Technology industry leaders", "relevant_tables": ["biz_4", "biz_9"], "benchmark": "wikitables"}

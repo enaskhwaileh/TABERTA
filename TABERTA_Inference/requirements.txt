@@ -1,0 +1,39 @@
+# TABERTA Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+torch>=2.0.0
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+huggingface-hub>=0.16.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+pyarrow>=14.0.0
+
+# Vector database
+qdrant-client>=1.6.0
+
+# MongoDB (optional, for training data management)
+pymongo>=4.5.0
+
+# Evaluation metrics
+scikit-learn>=1.3.0
+
+# Progress bars and utilities
+tqdm>=4.65.0
+
+# Configuration
+pyyaml>=6.0
+hydra-core>=1.3.0
+
+# Jupyter notebooks (optional, for evaluation)
+jupyter>=1.0.0
+ipykernel>=6.25.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optimization (optional)
+optimum[onnxruntime]>=1.13.0
