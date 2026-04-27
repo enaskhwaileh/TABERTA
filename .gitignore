@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local environments
+.env
+.venv/
+venv/
+env/
+
+# Training outputs and logs
+models/
+checkpoints/
+runs/
+wandb/
+*.log
+*.out
+*.err
+metrics.csv
+similarity_evaluation_results.csv
+
+# Large local data
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+*.parquet
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
